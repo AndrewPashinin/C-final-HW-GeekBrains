@@ -1,0 +1,15 @@
+C:\GeekBrains\FinalHW\RndArray\bin\Debug\net6.0\RndArray.exe
+C:\GeekBrains\FinalHW\RndArray\bin\Debug\net6.0\RndArray.deps.json
+C:\GeekBrains\FinalHW\RndArray\bin\Debug\net6.0\RndArray.runtimeconfig.json
+C:\GeekBrains\FinalHW\RndArray\bin\Debug\net6.0\RndArray.dll
+C:\GeekBrains\FinalHW\RndArray\bin\Debug\net6.0\RndArray.pdb
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.csproj.AssemblyReference.cache
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.AssemblyInfoInputs.cache
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.AssemblyInfo.cs
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.csproj.CoreCompileInputs.cache
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.dll
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\refint\RndArray.dll
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.pdb
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\RndArray.genruntimeconfig.cache
+C:\GeekBrains\FinalHW\RndArray\obj\Debug\net6.0\ref\RndArray.dll
