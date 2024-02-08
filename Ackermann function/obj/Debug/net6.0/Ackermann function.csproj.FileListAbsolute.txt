@@ -1,0 +1,15 @@
+C:\GeekBrains\FinalHW\Ackermann function\bin\Debug\net6.0\Ackermann function.exe
+C:\GeekBrains\FinalHW\Ackermann function\bin\Debug\net6.0\Ackermann function.deps.json
+C:\GeekBrains\FinalHW\Ackermann function\bin\Debug\net6.0\Ackermann function.runtimeconfig.json
+C:\GeekBrains\FinalHW\Ackermann function\bin\Debug\net6.0\Ackermann function.dll
+C:\GeekBrains\FinalHW\Ackermann function\bin\Debug\net6.0\Ackermann function.pdb
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.csproj.AssemblyReference.cache
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.AssemblyInfoInputs.cache
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.AssemblyInfo.cs
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.csproj.CoreCompileInputs.cache
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.dll
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\refint\Ackermann function.dll
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.pdb
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\Ackermann function.genruntimeconfig.cache
+C:\GeekBrains\FinalHW\Ackermann function\obj\Debug\net6.0\ref\Ackermann function.dll
